@@ -1,12 +1,12 @@
-# 🌐 Node Network
+# 🌐 Education Network
 
-## What is the Node Network?
+## What is the Education Network?
 
-The Node Network is an initiative by **My First Bitcoin** aimed at **independent** and **decentralizing education**.  
+The Education Network is an initiative by **My First Bitcoin** aimed at **independent** and **decentralizing education**.  
 
 It's a global network of grassroots Bitcoin communities and educational initiatives, each teaching the [Bitcoin Diploma](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025) and using educational resources that are created and provided by My First Bitcoin in an open-source manner.
 
-🌟 The nodes commit to respect the network’s **consensus rules**.
+🌟 The communities commit to respect the network’s **consensus rules**.
 
 ### ⚖️ Consensus Rules:
 - Independence with zero external influence.
@@ -16,7 +16,7 @@ It's a global network of grassroots Bitcoin communities and educational initiati
 - Prioritization of empowerment over profits.
 - Quality maintenance.
 
-The Node Network consists of **Light Nodes** and **Full Nodes**, both having their own characteristics.
+The Education Network consists of **Light Nodes** and **Full Nodes**, both having their own characteristics.
 
 In our [Community Hub](https://network.myfirstbitcoin.io), Light Nodes, Full Nodes, and the entire community come together. Feel free to take a look around and explore!
 
@@ -120,12 +120,12 @@ Wherever you are, whenever you're ready – **applications are open globally**.
   No, but it is highly recommended to show proof of work and motivation before applying.
 
 - **Is the [Community Hub](https://network.myfirstbitcoin.io) open to the public?**  
-  Yes, it is! Our Community Hub isn’t just a space for the Node Network – it also welcomes translators from around the world who are interested in translating or updating the Bitcoin Diploma into their local language.  
+  Yes, it is! Our Community Hub isn’t just a space for the Education Network – it also welcomes translators from around the world who are interested in translating or updating the Bitcoin Diploma into their local language.  
   Inside, you’ll find guidance, resources, and support. Feel free to stop by and take a look!
 
 ---
 
-## 💖 Support the Node Network
+## 💖 Support the Education Network
 
 You can support our mission by donating to any individual node or directly to **My First Bitcoin**.  
 Every contribution – big or small – makes a huge difference. Your support helps ensure that we can continue providing free and open-source Bitcoin education around the world.
